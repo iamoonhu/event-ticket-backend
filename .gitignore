@@ -1,0 +1,13 @@
+# Maven
+target/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# Environment
+.env
+application-local.properties
